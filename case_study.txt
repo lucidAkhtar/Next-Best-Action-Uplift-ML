@@ -1,0 +1,134 @@
+Case Study
+----------
+Next Best Action for Customer Retention and Upselling
+
+1. Context
+At XYZ, customer retention and sustainable growth are strategic priorities,
+particularly during the renewal phase.
+We currently have a churn prediction model in production that identifies
+customers with a higher likelihood of churn. While this provides valuable
+foresight, prediction alone does not create value. The real impact comes from
+deciding what action to take next.
+Our focus has therefore shifted to building a Next Best Action (NBA) capability
+that enables us to:
+• Proactively retain customers at high risk of churn
+• Upsell or cross-sell relevant services to suitable customers
+• Improve renewal outcomes, revenue, and overall customer experience
+
+This case study reflects a realistic enterprise environment where data is
+imperfect, trade-offs are required, and success is defined by business impact,
+not technical sophistication alone.
+
+2. Objective of the Exercise
+This exercise is designed to assess how you think and operate as a Senior Data
+Scientist at XYZ.
+Specifically, we are evaluating your ability to:
+• Design a sound, end-to-end analytical and modelling-driven solution
+• Translate predictive insights into clear retention and upsell actions
+• Demonstrate ownership across the full data science lifecycle
+(exploration → modelling → evaluation → experimentation)
+• Communicate effectively with both technical and non-technical
+stakeholders
+
+This is not a coding test. It is an assessment of judgment, structure, and
+decision-making.
+
+
+3. Case Study Components
+Component 1: Technical Solutioning
+(High-Level | End-to-End Analytical & Modelling View)
+This component is technical and should be approached from an analytical and
+modelling perspective.
+You may assume:
+• A churn probability score is available from an existing production model
+• Core customer attributes, engagement indicators, and value signals exist
+• No dataset is provided; reasonable assumptions are expected and
+should be stated clearly
+From a data science leadership perspective, outline how you would approach
+this problem end to end:
+
+a. Problem Framing and Exploration
+• How you would use exploratory analysis to understand customer
+behaviour, churn risk patterns, and growth opportunities
+• How you would frame the problem to
+balance retention and upselling without creating conflicting or
+suboptimal actions
+
+b. Analytical and Modelling Approach
+• How churn risk, customer value, and engagement signals would be
+combined to recommend a Next Best Action
+• The types of analytical or modelling approaches you would consider (e.g.
+rules, scoring, propensity, uplift, or hybrid) and why
+• How the solution differentiates:
+o Customers requiring retention-focused actions
+o Customers suitable for upselling or cross-selling
+o Customers requiring no immediate intervention
+
+c. Evaluation and Experimentation
+• How you would evaluate the approach before rollout
+• How you would design A/B tests to measure true business impact
+• Key metrics for retention, upsell, and customer experience
+
+
+d. Operationalisation and Learning
+• How this solution would be embedded into business workflows (e.g.
+CRM, renewal processes)
+• How outcomes would feed back into continuous improvement of models
+and actions
+
+Coding Expectation (Illustrative)
+Include lightweight code or pseudocode to illustrate how analytical logic
+translates into action assignment.
+The focus is on clarity and structure, not implementation depth.
+
+
+Deliverables – Component 1
+• Technical note or slides: maximum 2 pages or 3–4 slides
+• Optional lightweight code or notebook
+
+Component 2: Business Presentation
+(Executive Storytelling – Non-Technical)
+Prepare a short presentation for senior business stakeholders with no data
+science background.
+
+Present the solution as a clear business story, covering:
+• The customer challenge in simple terms
+• How customers are prioritised for retention vs upselling
+• What actions the organisation should take and why
+• Expected impact on retention, revenue, and customer experience
+• How success will be measured and governed
+
+Guidelines
+• No technical jargon or modelling details
+• Focus on decisions, outcomes, and value
+
+Deliverables - Component 2
+• 4-5 slides, suitable for an executive discussion
+
+4. Time Expectation
+The expected effort for this case study is approximately 3–4 hours for a senior
+candidate, focusing on clarity of thinking rather than depth of implementation.
+Candidates may make reasonable assumptions where information is not
+explicitly provided and should state those assumptions clearly.
+
+5. Submission Timeline
+Candidates are required to submit both components within one week from
+the date this case study is shared.
+Submissions received after this timeline may not be considered as part of the
+evaluation process.
+
+6. Evaluation Focus
+Submissions will be evaluated on:
+• End-to-end analytical thinking and ownership
+• Soundness of modelling and decision frameworks
+• Practicality of retention and upsell logic
+• Quality of evaluation and experimentation design
+• Clarity and structure of communication
+• Evidence of senior-level judgment and leadership mindset
+
+7. Final Note from the XYZ Data Science Team
+This case study is intentionally open-ended. At XYZ, senior data scientists
+are expected to operate effectively in ambiguity, make informed trade-offs,
+and drive decisions that lead to real business outcomes.
+We are less interested in which tools you use and more interested in how you
+think, prioritise, and communicate.
